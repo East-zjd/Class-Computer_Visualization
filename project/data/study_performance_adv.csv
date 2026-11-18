@@ -1,0 +1,21 @@
+student_id,submit_device,score,study_hours,homework_count
+1001,MacBook,88,14.5,10
+1002,Windows PC,74,9.2,7
+1003,Windows PC,91,16.0,10
+1004,iPhone,62,5.5,5
+1005,iPad,85,12.0,8
+1006,Ubuntu Linux,95,22.0,12
+1007,Android Phone,58,4.0,4
+1008,Windows PC,78,11.5,8
+1009,MacBook,82,13.0,9
+1010,ChromeOS,67,7.8,6
+1011,Windows PC,45,2.1,2
+1012,MacBook,90,15.5,10
+1013,Windows PC,73,10.0,7
+1014,Android Tablet,69,8.5,6
+1015,Raspberry Pi,84,18.2,11
+1016,Windows PC,79,11.0,8
+1017,MacBook,88,13.5,9
+1018,Others (Kindle),52,3.0,3
+1019,Windows PC,18,24.0,1
+1020,MacBook,99,1.5,10

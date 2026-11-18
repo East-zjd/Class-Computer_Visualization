@@ -1,0 +1,6 @@
+# 复现论文图表所需的 Python 依赖（scripts/ 下三个脚本）
+# 安装：python -m pip install -r requirements.txt
+# 国内网络可加镜像：-i https://pypi.tuna.tsinghua.edu.cn/simple
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8

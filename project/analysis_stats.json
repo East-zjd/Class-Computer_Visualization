@@ -1,0 +1,394 @@
+{
+  "shape": [
+    540,
+    7
+  ],
+  "cols": [
+    "Date",
+    "Category",
+    "Channel",
+    "Ad_Spend",
+    "GMV",
+    "Conversion_Rate",
+    "Bounce_Rate"
+  ],
+  "date_range": [
+    "2026-09-01",
+    "2026-09-30"
+  ],
+  "n_days": 30,
+  "n_cat": 6,
+  "n_ch": 3,
+  "total_gmv": 14229224.94,
+  "total_spend": 4667647.25,
+  "roas": 3.0485,
+  "avg_cvr": 12.75,
+  "avg_bounce": 45.47,
+  "category": [
+    {
+      "name": "3C数码",
+      "gmv": 3344826.43,
+      "spend": 793472.95,
+      "roas": 4.215,
+      "cvr": 17.06,
+      "bounce": 32.85,
+      "share": 23.51,
+      "n": 90
+    },
+    {
+      "name": "美妆个护",
+      "gmv": 2922912.34,
+      "spend": 791168.8,
+      "roas": 3.694,
+      "cvr": 23.28,
+      "bounce": 27.79,
+      "share": 20.54,
+      "n": 90
+    },
+    {
+      "name": "智能家居",
+      "gmv": 2148501.39,
+      "spend": 754770.12,
+      "roas": 2.847,
+      "cvr": 10.13,
+      "bounce": 47.94,
+      "share": 15.1,
+      "n": 90
+    },
+    {
+      "name": "户外运动",
+      "gmv": 1980212.81,
+      "spend": 811725.12,
+      "roas": 2.44,
+      "cvr": 8.98,
+      "bounce": 55.22,
+      "share": 13.92,
+      "n": 90
+    },
+    {
+      "name": "运动服饰",
+      "gmv": 1925600.85,
+      "spend": 767977.7,
+      "roas": 2.507,
+      "cvr": 8.4,
+      "bounce": 54.92,
+      "share": 13.53,
+      "n": 90
+    },
+    {
+      "name": "数码配件",
+      "gmv": 1907171.12,
+      "spend": 748532.56,
+      "roas": 2.548,
+      "cvr": 8.67,
+      "bounce": 54.07,
+      "share": 13.4,
+      "n": 90
+    }
+  ],
+  "channel": [
+    {
+      "name": "网页端",
+      "gmv": 4721908.12,
+      "spend": 1518754.8,
+      "roas": 3.109,
+      "cvr": 12.73,
+      "bounce": 45.98,
+      "share": 33.18,
+      "n": 180
+    },
+    {
+      "name": "App端",
+      "gmv": 4711198.82,
+      "spend": 1550589.42,
+      "roas": 3.038,
+      "cvr": 12.85,
+      "bounce": 45.06,
+      "share": 33.11,
+      "n": 180
+    },
+    {
+      "name": "小程序",
+      "gmv": 4796118.0,
+      "spend": 1598303.03,
+      "roas": 3.001,
+      "cvr": 12.68,
+      "bounce": 45.36,
+      "share": 33.71,
+      "n": 180
+    }
+  ],
+  "daily_first5": [
+    {
+      "date": "2026-09-01",
+      "gmv": 515076.19,
+      "spend": 166353.42
+    },
+    {
+      "date": "2026-09-02",
+      "gmv": 498555.99,
+      "spend": 159382.12
+    },
+    {
+      "date": "2026-09-03",
+      "gmv": 436771.35,
+      "spend": 145255.36
+    },
+    {
+      "date": "2026-09-04",
+      "gmv": 530555.01,
+      "spend": 177028.48
+    },
+    {
+      "date": "2026-09-05",
+      "gmv": 498016.99,
+      "spend": 148775.05
+    }
+  ],
+  "daily_top": {
+    "date": "2026-09-28",
+    "gmv": 544483.17
+  },
+  "daily_low": {
+    "date": "2026-09-13",
+    "gmv": 399755.65
+  },
+  "daily_mean": 474307.5,
+  "daily_std": 39264.22,
+  "daily_cv": 0.0828,
+  "weekday_gmv": {
+    "0": 499680.91,
+    "1": 480007.55,
+    "2": 490080.01,
+    "3": 463190.72,
+    "4": 466333.09,
+    "5": 462597.77,
+    "6": 452894.3
+  },
+  "worst_dod": {
+    "date": "2026-09-19",
+    "chg": -20.42,
+    "gmv": 411749.46
+  },
+  "3c_days_above_mean": 17,
+  "3c_days_total": 30,
+  "3c_max_day": {
+    "date": "2026-09-30",
+    "gmv": 166791.4
+  },
+  "top2_share": 44.05,
+  "pairs_top5": [
+    {
+      "name": "3C数码 / 网页端",
+      "gmv": 1168154.24,
+      "spend": 271154.97,
+      "roas": 4.308
+    },
+    {
+      "name": "3C数码 / 小程序",
+      "gmv": 1106550.21,
+      "spend": 275736.49,
+      "roas": 4.013
+    },
+    {
+      "name": "美妆个护 / 小程序",
+      "gmv": 1075984.73,
+      "spend": 290657.42,
+      "roas": 3.702
+    },
+    {
+      "name": "3C数码 / App端",
+      "gmv": 1070121.98,
+      "spend": 246581.49,
+      "roas": 4.34
+    },
+    {
+      "name": "美妆个护 / 网页端",
+      "gmv": 948001.02,
+      "spend": 252715.9,
+      "roas": 3.751
+    }
+  ],
+  "pairs_bottom3": [
+    {
+      "name": "运动服饰 / App端",
+      "gmv": 626274.49,
+      "spend": 249303.9,
+      "roas": 2.512
+    },
+    {
+      "name": "户外运动 / 小程序",
+      "gmv": 616741.73,
+      "spend": 247234.31,
+      "roas": 2.495
+    },
+    {
+      "name": "数码配件 / 网页端",
+      "gmv": 589840.57,
+      "spend": 231428.71,
+      "roas": 2.549
+    }
+  ],
+  "corr_cvr_bounce": -0.8215,
+  "corr_spend_gmv": 0.8332,
+  "roas_ratio_best_worst_category": 1.728,
+  "channel_roas_range": 0.1083,
+  "spend_share_by_category": {
+    "3C数码": 17.0,
+    "美妆个护": 16.95,
+    "智能家居": 16.17,
+    "户外运动": 17.39,
+    "运动服饰": 16.45,
+    "数码配件": 16.04
+  },
+  "cvr_range_by_cat": {
+    "3C数码": [
+      12.56,
+      21.96
+    ],
+    "户外运动": [
+      5.13,
+      11.98
+    ],
+    "智能家居": [
+      6.12,
+      13.99
+    ],
+    "美妆个护": [
+      18.09,
+      27.95
+    ],
+    "数码配件": [
+      5.26,
+      11.9
+    ],
+    "运动服饰": [
+      5.27,
+      11.89
+    ]
+  },
+  "biz_shape": [
+    300,
+    9
+  ],
+  "biz_cols": [
+    "Company_ID",
+    "Sector",
+    "Region",
+    "Annual_Revenue_M",
+    "R_and_D_Spend_M",
+    "Employees_K",
+    "Growth_Rate_pct",
+    "Profit_M",
+    "Funding_M"
+  ],
+  "biz_n_sector": 4,
+  "biz_n_region": 3,
+  "biz_total_rev": 84930.8,
+  "biz_sector_top": [
+    {
+      "sector": "Enterprise AI",
+      "rev": 30391.07,
+      "growth": 17.63,
+      "rd_int": 18.31,
+      "margin": 17.12,
+      "n": 111
+    },
+    {
+      "sector": "SaaS & DevTools",
+      "rev": 23460.51,
+      "growth": 16.79,
+      "rd_int": 18.88,
+      "margin": 16.82,
+      "n": 82
+    },
+    {
+      "sector": "Cloud Infra",
+      "rev": 20504.05,
+      "growth": 17.47,
+      "rd_int": 16.35,
+      "margin": 17.11,
+      "n": 69
+    },
+    {
+      "sector": "Hardware & Edge",
+      "rev": 10575.17,
+      "growth": 19.09,
+      "rd_int": 16.74,
+      "margin": 19.7,
+      "n": 38
+    }
+  ],
+  "biz_region": [
+    {
+      "region": "North America",
+      "rev": 38242.73,
+      "growth": 17.69
+    },
+    {
+      "region": "APAC",
+      "rev": 30281.47,
+      "growth": 18.1
+    },
+    {
+      "region": "EMEA",
+      "rev": 16406.6,
+      "growth": 16.2
+    }
+  ],
+  "biz_corr_funding_rev": 0.7434,
+  "biz_corr_rd_rev": 0.7665,
+  "biz_corr_growth_profit": 0.0958,
+  "biz_emp_total": 3207.91,
+  "study": {
+    "shape": [
+      20,
+      5
+    ],
+    "cols": [
+      "student_id",
+      "submit_device",
+      "score",
+      "study_hours",
+      "homework_count"
+    ],
+    "corr": 0.1101
+  },
+  "study_preview": [
+    {
+      "student_id": 1001,
+      "submit_device": "MacBook",
+      "score": 88,
+      "study_hours": 14.5,
+      "homework_count": 10
+    },
+    {
+      "student_id": 1002,
+      "submit_device": "Windows PC",
+      "score": 74,
+      "study_hours": 9.2,
+      "homework_count": 7
+    },
+    {
+      "student_id": 1003,
+      "submit_device": "Windows PC",
+      "score": 91,
+      "study_hours": 16.0,
+      "homework_count": 10
+    }
+  ],
+  "task2": {
+    "shape": [
+      18,
+      4
+    ],
+    "cols": [
+      "student_id",
+      "submit_device",
+      "score",
+      "study_hours"
+    ],
+    "mean_score": 75.56,
+    "n": 18
+  }
+}
