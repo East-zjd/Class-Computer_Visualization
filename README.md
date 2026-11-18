@@ -1,4 +1,6 @@
-# 成果附件：可视化驾驶舱系统 + 流程 skill
+﻿# 成果附件：可视化驾驶舱系统 + 流程 skill
+
+> 已上传：[East-zjd/Class-Computer_Visualization](https://github.com/East-zjd/Class-Computer_Visualization)（内容即本目录）
 
 本目录是期末论文《从数据到决策：电商经营多维交互式可视化大屏的设计与实现》的成果附件，分两部分：
 

@@ -1,0 +1,4 @@
+# 不要按平台改写换行符：CHECKSUMS.txt 依赖稳定的字节内容。
+# 文本类文件的哈希已做 EOL 归一化（见 verify.ps1），但保持原样更省事。
+* -text
+*.png binary

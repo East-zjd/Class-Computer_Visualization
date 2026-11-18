@@ -1,7 +1,9 @@
-﻿# final paper\result   sha256  相对路径  字节数
+﻿# final paper\result  sha256（文本类已做 EOL 归一化）  相对路径  原始字节数
+# 校验：powershell -ExecutionPolicy Bypass -File verify.ps1
 
+64a4a494598be284671c977d58abe365ec5a84003ebec0c96e2246e93f1ede08  .gitattributes  198
 3d55a3627c20f25c1f2e8b0afe2c170b56a070eb717766e98c4efeaa2f4961ef  project\ai-log\conversation-export.md  13162
-e9813487dbdc59c70d197d41a84d09578dff08ec976439a5fdd5cf22ef78865d  project\analysis_stats.json  7508
+265e38adb6169100190e02c9fb3499ad5a1f0d6e62a3f2b42f8957a8c6bf820e  project\analysis_stats.json  7508
 7a0aeef6698e7feaacc0af40a7d10733ea45444ab8f19fe512ed627ae5f26a66  project\dashboard\app.js  10180
 c77b9800a658b355ec3a43263155af8114139a35428a778a92beba77bcf44cbb  project\dashboard\data.js  80000
 e44aaeaab31750ddb498e12887740ceefb93dd28e2b2bb237f38caa8f3f6e014  project\dashboard\index.html  7022
@@ -10,7 +12,7 @@ e44aaeaab31750ddb498e12887740ceefb93dd28e2b2bb237f38caa8f3f6e014  project\dashbo
 5ef1374b5dd259183c83f51d43fbb5650872d1a6b13d240010451c4abb70751a  project\data\course_metrics.csv  459
 aac0207ce38bd084484e0490b8831a4454a7302c8d74ee4f5c02c9cb369f92c7  project\data\ecommerce_dashboard_data.csv  34415
 721e44493a57212ec831dfc7f6b28b136d9c2d7d41222c1df852746eb32f7988  project\data\study_performance_adv.csv  564
-ccd46b395bdec6ece7d2f3e3f3776d67bbb19a37bbaf2faea7ee8091fa21a8d9  project\data\visualization_business_data.csv  25304
+e45bf7d7e6e3ea30b5a57d5727d5b20da82f1fb6e86e8444ffb7c4471667f2ec  project\data\visualization_business_data.csv  25304
 c9a2c382c24f67350e38f4903f817d47c8fec0333274b94149df4d8ec9fd1ee4  project\figures\fig1_arch.png  153205
 3649760e36b6196461cd5ae9ba9b4b681b0adf70bc6d58c8102ecb6c9175bed0  project\figures\fig10_agent.png  144348
 5c1d8d70ae46e34cb8bf4268a32d60087289eabb2c9f36223259e36c3743cbf8  project\figures\fig11_biz.png  244957
@@ -34,5 +36,6 @@ ab34666e6854541344fa4f77a048a6eb9b69dd039e5610d706f316ec1620f788  project\script
 b787270f674e4cf9547fbb9e75252cd10cadf4d6f85074ba7a5944d5f8d830ad  project_skill\scripts\resync.ps1  8490
 69f493636fca0eedd253751b06cd322f017a2becd158b67116894f94624f6599  project_skill\scripts\smoke.ps1  8906
 ae5843eb8ca63b7c741e0a4733983f12a4f0412ac79160f6eba2becb8b469292  project_skill\SKILL.md  12980
-2102d7c1fb44c8c0af08a11fbf90f5e0c1753fa6cd3345a554bf33e9fb37966b  README.md  3075
+bd6fb518fcd529d1b78fa152f926b1feffeaf827cfb66317870d262c15dabbec  README.md  3215
 a7b43f55b19990788e5c19e47de707f0be4978fcc9a6e55f5f8b964559a1002c  REPRODUCE.md  4492
+b18e6c2c058c1251b6ffb4ab466c96be66c2a68509e814556147d9d6be4e6cfa  verify.ps1  2813
